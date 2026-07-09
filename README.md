@@ -71,8 +71,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,bootstrap,git,github,vscode,linux,figma,vscode,opencv,pytorch,mongodb,nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,bootstrap,git,github,vscode,linux,figma,vscode,opencv,pytorch,mongodb,nodejs,msoffice,canva"/>
+</center>
 </div>
 
 
