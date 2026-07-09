@@ -127,7 +127,7 @@ Annual Conference
 </td>
 
 <td align="center">
-<img src="LINK_TO_RAISONI_LOGO" width="70"/><br>
+<img src="assets/raisoni.png" width="70"/><br>
 <b>Raisoni</b><br>
 Tech Event
 </td>
