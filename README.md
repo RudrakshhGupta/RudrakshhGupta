@@ -2,12 +2,13 @@
 <p align="center">
   <em>Building products that solve real-world problems through AI, software, and design.</em>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real-World+Products;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RudrakshhGupta&label=Visitors&color=7F3FBF&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/RudrakshhGupta?style=for-the-badge&color=7F3FBF"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real-World+Products;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 <div align="center"><h3>
 <img src="https://img.icons8.com/fluency/32/user-male-circle.png" width="24"/>About Me</h3>
