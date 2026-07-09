@@ -136,8 +136,11 @@ Tech Event
 </table>
 
 
-## 📊 LeetCode Stats
+## 📊 Coding Statitics 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rudrakshhgupta?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </p>
+<a href="https://www.codechef.com/users/rudrakshhgupta">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
