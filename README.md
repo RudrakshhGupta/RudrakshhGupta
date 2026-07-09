@@ -54,7 +54,7 @@
 
 </p>
 
----
+
 <h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/user-male-circle.png"/>
@@ -63,28 +63,28 @@ About Me
 
 </h2>
 <center>
-<table>
 
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
 ### 👨‍💻 Developer
 
 - 🤖 Exploring Machine Learning & AI
 - 💻 Building Full Stack Applications
-- 🚀 Love turning ideas into products
+- 🚀 Turning ideas into products
 - 🌱 Learning Deep Learning & DSA
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
 ### 🎯 Beyond Coding
 
 - 🎓 B.Tech CSE @ IIIT Nagpur
 - 🎤 Public Speaker & Debate Enthusiast
-- 🏛 Organized Technical Events
+- 🏛 Event Organizer
 - ☕ Powered by Curiosity
 
 </td>
@@ -93,7 +93,7 @@ About Me
 
 </table>
 </center>
-------
+
 
 <h2 align="center">
 
@@ -139,7 +139,7 @@ Technology Arsenal
 
 </p>
 
----<h2 align="center">
+<h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/controller.png"/>
 
@@ -167,7 +167,7 @@ Competitive Programming
 
 </p>
 
-------
+
 
 <h2 align="center">
 
@@ -177,61 +177,61 @@ Journey Across Institutions
 
 </h2>
 
-<br>
+<table align="center">
 
-<p align="center">
+<tr>
 
-<img src="assets/iiitn.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="assets/iiitn.png" width="80"><br>
+IIIT Nagpur
+</td>
 
-<img src="assets/iitb.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="assets/iitb.png" width="80"><br>
+IIT Bombay
+</td>
 
-<img src="assets/iitg.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="assets/iitg.png" width="80"><br>
+IIT Guwahati
+</td>
 
-<img src="assets/iitbbs.png" width="75"/>
+<td align="center">
+<img src="assets/iitbbs.png" width="80"><br>
+IIT Bhubaneswar
+</td>
 
-</p>
+</tr>
 
-<p align="center">
+<tr>
 
-<b>IIIT Nagpur</b> •
-<b>IIT Bombay</b> •
-<b>IIT Guwahati</b> •
-<b>IIT Bhubaneswar</b>
+<td align="center">
+<img src="assets/vnit.png" width="80"><br>
+VNIT
+</td>
 
-</p>
+<td align="center">
+<img src="assets/ycce.png" width="80"><br>
+YCCE
+</td>
 
-<br>
+<td align="center">
+<img src="assets/rbu.png" width="80"><br>
+RBU
+</td>
 
-<p align="center">
+<td align="center">
+<img src="assets/raisoni.png" width="80"><br>
+Raisoni
+</td>
 
-<img src="assets/vnit.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
 
-<img src="assets/ycce.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</table>
 
-<img src="assets/rbu.png" width="75"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="assets/raisoni.png" width="75"/>
-
-</p>
-<p align="center">
-
-<b>VNIT Nagpur</b> •
-<b>YCCE</b> •
-<b>RBU</b> •
-<b>G H Raisoni</b>
-
-</p>
-
----> Competitions, conferences, hackathons, workshops and academic experiences across India's leading institutions.
+ <center>Competitions, conferences, hackathons, workshops and academic experiences across India's leading institutions.</center>
 
 
----
 
 <h2 align="center">
 
@@ -243,17 +243,17 @@ GitHub Dashboard
 
 <br><p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RudrakshhGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="(https://github-readme-stats.vercel.app/api?username=RudrakshhGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=RudrakshhGupta&theme=tokyonight&hide_border=true"/>
 
 </p><p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshhGupta&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshhGupta&layout=compact&theme=github-dark&hide_border=true"/>
 
 </p>
 
----<h2 align="center">
+<h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/activity-history.png"/>
 
@@ -267,7 +267,7 @@ Contribution Activity
 
 </p>
 
----<h2 align="center">
+<h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/goal.png"/>
 
@@ -343,7 +343,7 @@ Currently Focused On
 
 </table>
 
----<h2 align="center">
+<h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/time-machine.png"/>
 
@@ -357,7 +357,7 @@ Weekly Development Breakdown
 
 </p>
 
----<h2 align="center">
+<h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/snake.png"/>
 
@@ -371,7 +371,7 @@ Coming Soon 🐍
 
 </p>
 
----<div align="center">
+<div align="center">
 
 ### Thanks for visiting my profile! ⭐
 
