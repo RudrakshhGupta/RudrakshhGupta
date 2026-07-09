@@ -134,3 +134,10 @@ Tech Event
 
 </tr>
 </table>
+
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rudrakshhgupta?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</p>
