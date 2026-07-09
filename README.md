@@ -157,7 +157,7 @@ Tech Event
 </p>
 <h2 align="center">
 
-<img src="https://img.icons8.com/fluency/32/activity-history.png"/>
+---
 
 Contribution Activity
 
