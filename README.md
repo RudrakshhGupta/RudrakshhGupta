@@ -158,6 +158,7 @@ Tech Event
 <h2 align="center">
 
 ---
+
 <h2 align="center">
 
 <img src="https://img.icons8.com/fluency/32/snake.png"/>
@@ -172,13 +173,7 @@ Coming Soon 🐍
 
 </p>
 
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-<i>"Stay curious. Keep building."</i>
-
-</div>
+---
 
 Contribution Activity
 
@@ -189,3 +184,12 @@ Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshhGupta&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+<i>"Stay curious. Keep building."</i>
+
+</div>
