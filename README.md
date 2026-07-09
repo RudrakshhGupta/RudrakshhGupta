@@ -158,6 +158,27 @@ Tech Event
 <h2 align="center">
 
 ---
+<h2 align="center">
+
+<img src="https://img.icons8.com/fluency/32/snake.png"/>
+
+Contribution Snake
+
+</h2>
+
+<p align="center">
+
+Coming Soon 🐍
+
+</p>
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+<i>"Stay curious. Keep building."</i>
+
+</div>
 
 Contribution Activity
 
