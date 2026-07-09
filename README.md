@@ -79,8 +79,8 @@
 </center>
 </div>
 
-## 🏛️ Experiences & Recognition
 
+## 🏛️ Experiences & Recognition
 <table>
 <tr>
 
