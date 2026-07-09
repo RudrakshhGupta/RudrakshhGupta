@@ -1,3 +1,1 @@
-# Hi 👋
-
-I'm Rudraksh Gupta.
+<img src="assets/banner.png" width="100%">
