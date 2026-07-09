@@ -64,3 +64,21 @@
 </a>
 
 </div>
+
+
+
+## <img src="https://img.icons8.com/fluency/32/maintenance.png" width="24"/> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,bootstrap,git,github,vscode,linux,figma,vscode,opencv,pytorch,mongodb,nodejs"/>
+
+</div>
+
+
+🌱 Currently Working On
+
+- 🤖 Machine Learning & Deep Learning
+- 💻 Full Stack Development
+- 🧩 Data Structures & Algorithms
+- 🚀 Building impactful real-world projects
