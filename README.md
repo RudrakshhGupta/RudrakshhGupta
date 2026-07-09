@@ -81,27 +81,27 @@
 <tr>
 
 <td align="center">
-<img src="LINK_TO_IIIT_LOGO" width="70"/><br>
+<img src="assets/iiitn.png" width="70"/><br>
 <b>IIIT Nagpur</b><br>
 Computer Science
 </td>
 
 <td align="center">
-<img src="LINK_TO_IITB_LOGO" width="70"/><br>
+<img src="assets/iitb.png" width="70"/><br>
 <b>IIT Bombay</b><br>
-Competition
+Annual Conference 
 </td>
 
 <td align="center">
-<img src="LINK_TO_IITG_LOGO" width="70"/><br>
+<img src="assets/iitg.png" width="70"/><br>
 <b>IIT Guwahati</b><br>
-AI Course
+DS Course
 </td>
 
 <td align="center">
-<img src="LINK_TO_IITBBS_LOGO" width="70"/><br>
+<img src="assets/iitbbs.png" width="70"/><br>
 <b>IIT Bhubaneswar</b><br>
-MUN
+Annual Conference 
 </td>
 
 </tr>
@@ -109,21 +109,21 @@ MUN
 <tr>
 
 <td align="center">
-<img src="LINK_TO_VNIT_LOGO" width="70"/><br>
+<img src="assets/vnit.png" width="70"/><br>
 <b>VNIT Nagpur</b><br>
-Debate Winner
+Annual Debate Winner
 </td>
 
 <td align="center">
-<img src="LINK_TO_YCCE_LOGO" width="70"/><br>
+<img src="assets/ycce.png" width="70"/><br>
 <b>YCCE</b><br>
 Hackathon
 </td>
 
 <td align="center">
-<img src="LINK_TO_RBU_LOGO" width="70"/><br>
+<img src="assets/rbu.png" width="70"/><br>
 <b>RBU</b><br>
-Competition
+Annual Conference 
 </td>
 
 <td align="center">
