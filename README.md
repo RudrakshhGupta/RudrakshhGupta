@@ -62,7 +62,7 @@
 About Me
 
 </h2>
-
+<center>
 <table>
 
 <tr>
@@ -92,7 +92,7 @@ About Me
 </tr>
 
 </table>
-
+</center>
 ------
 
 <h2 align="center">
