@@ -132,11 +132,6 @@ Annual Conference
 Tech Event
 </td>
 
-</tr>
-</table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ## 📊 Coding Statitics 
 
@@ -146,3 +141,8 @@ Tech Event
 <a href="https://www.codechef.com/users/rudrakshhgupta">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+</tr>
+</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RudrakshhGupta&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
+</p>
