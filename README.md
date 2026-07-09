@@ -1,8 +1,4 @@
 <img src="assets/banner.png" width="100%">
-<h1 align="center">
-Rudraksh Gupta
-</h1>
-
-<h3 align="center">
-Machine Learning • Full Stack • Product Building
-</h3>
+<p align="center">
+  <em>Building products that solve real-world problems through AI, software, and design.</em>
+</p>
