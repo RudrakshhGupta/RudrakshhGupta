@@ -75,10 +75,62 @@
 </center>
 </div>
 
+## 🏛️ Experiences & Recognition
 
-🌱 Currently Working On
+<table>
+<tr>
 
-- 🤖 Machine Learning & Deep Learning
-- 💻 Full Stack Development
-- 🧩 Data Structures & Algorithms
-- 🚀 Building impactful real-world projects
+<td align="center">
+<img src="LINK_TO_IIIT_LOGO" width="70"/><br>
+<b>IIIT Nagpur</b><br>
+Computer Science
+</td>
+
+<td align="center">
+<img src="LINK_TO_IITB_LOGO" width="70"/><br>
+<b>IIT Bombay</b><br>
+Competition
+</td>
+
+<td align="center">
+<img src="LINK_TO_IITG_LOGO" width="70"/><br>
+<b>IIT Guwahati</b><br>
+AI Course
+</td>
+
+<td align="center">
+<img src="LINK_TO_IITBBS_LOGO" width="70"/><br>
+<b>IIT Bhubaneswar</b><br>
+MUN
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="LINK_TO_VNIT_LOGO" width="70"/><br>
+<b>VNIT Nagpur</b><br>
+Debate Winner
+</td>
+
+<td align="center">
+<img src="LINK_TO_YCCE_LOGO" width="70"/><br>
+<b>YCCE</b><br>
+Hackathon
+</td>
+
+<td align="center">
+<img src="LINK_TO_RBU_LOGO" width="70"/><br>
+<b>RBU</b><br>
+Competition
+</td>
+
+<td align="center">
+<img src="LINK_TO_RAISONI_LOGO" width="70"/><br>
+<b>Raisoni</b><br>
+Tech Event
+</td>
+
+</tr>
+</table>
