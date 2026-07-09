@@ -6,3 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real-World+Products;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
+<div align="center">
+
+### Building AI • Developing Products • Solving Real Problems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Product+Builder;Always+Learning+Something+New" />
+
+</div>
