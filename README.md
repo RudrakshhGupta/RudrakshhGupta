@@ -8,3 +8,35 @@
 </p>
 <div align="center">
 ## <img src="https://img.icons8.com/fluency/32/user-male-circle.png" width="24"/> About Me
+
+
+<table>
+
+<tr>
+<td width="50%">
+
+🧠 Interested in Machine Learning & AI
+
+💻 Building Full Stack Applications
+
+🚀 Love turning ideas into products
+
+🌱 Currently exploring Deep Learning & DSA
+
+</td>
+
+<td width="50%">
+
+🎓 B.Tech CSE @ IIIT Nagpur
+
+🎤 Public Speaker & Debate Enthusiast
+
+🏛 Organized technical & debating events
+
+☕ Fueled by curiosity and coffee
+
+</td>
+
+</tr>
+
+</table>
