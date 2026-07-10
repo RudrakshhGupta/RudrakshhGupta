@@ -101,7 +101,7 @@ Contribution Snake
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=RudrakshhGupta&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshhGupta&theme=tokyonight&hide_border=true"/>
 
 ---
 Contribution Activity
