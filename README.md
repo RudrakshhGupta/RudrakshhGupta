@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/fluency/32/user-male-circle.png" width="24"/>
   About Me
 </h2>
-<center>
+<div align="center">
 <pre>
   
                               @@@@@@@@@@@@@%%%#*                                  
@@ -71,7 +71,7 @@
     =-::::-*##--=+-==#@@@+*+===+-+#%@=%=------=====++#@*====++==++*@@=-:--==++*#@@@@#
 
 </pre>
-</pre></center>
+</pre></div>
 <table align="center">
 <tr>
 <td width="50%" valign="top">
