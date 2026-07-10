@@ -20,7 +20,7 @@
   About Me
 </h2>
 <div align="center">
-<pre>
+<pre align="center">
   
                               @@@@@@@@@@@@@%%%#*                                  
                            @@@@@@@@@@#%#%%###****#                               
