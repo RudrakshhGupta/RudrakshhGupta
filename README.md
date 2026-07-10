@@ -20,7 +20,7 @@
   About Me
 </h2>
 <p align="center">
-  <img src="assets/ascii-art(1).svg" width="700">
+  <img src="assets/assets/ascii-art (1).txt" width="700">
 </p>
 <table align="center">
 <tr>
