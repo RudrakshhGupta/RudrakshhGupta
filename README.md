@@ -101,10 +101,6 @@ Contribution Snake
 </p>
 
 ---
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshhGupta&theme=github_dark)
-
----
 Contribution Activity
 
 </h2>
