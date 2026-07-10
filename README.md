@@ -193,6 +193,11 @@ Tech Event
 </table>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/main/github-metrics.svg" width="500">
+</p>
+
+---
 
 ### Thanks for visiting my profile! ⭐
 
