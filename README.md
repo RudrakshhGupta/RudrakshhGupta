@@ -80,6 +80,58 @@
 
 ---
 
+<h2 align="center">
+
+<img src="https://img.icons8.com/fluency/32/snake.png"/>
+
+Contribution Snake
+
+</h2>
+
+<p align="center">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+</p>
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=RudrakshhGupta&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+---
+Contribution Activity
+
+</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshhGupta&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+## 📊 Coding Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rudrakshhgupta?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+</p>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/rudrakshhgupta">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+<h2 align="center">
+
+---
+
 ## 🏛️ Experiences & Recognition
 
 <table align="center">
@@ -139,57 +191,6 @@ Tech Event
 
 </tr>
 </table>
-
----
-
-## 📊 Coding Statistics
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/rudrakshhgupta?theme=dark&font=JetBrains%20Mono&ext=contest"/>
-</p>
-
-<p align="center">
-
-<a href="https://www.codechef.com/users/rudrakshhgupta">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-<h2 align="center">
-
----
-
-<h2 align="center">
-
-<img src="https://img.icons8.com/fluency/32/snake.png"/>
-
-Contribution Snake
-
-</h2>
-
-<p align="center">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-</p>
-
----
-
-Contribution Activity
-
-</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshhGupta&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
