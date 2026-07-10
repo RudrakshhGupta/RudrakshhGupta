@@ -101,7 +101,7 @@ Contribution Snake
 </p>
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshhGupta&theme=tokyonight&hide_border=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshhGupta&theme=github_dark)
 
 ---
 Contribution Activity
