@@ -192,6 +192,7 @@ Contribution Activity
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true" />
 <div align="center">
 
 ### Thanks for visiting my profile! ⭐
