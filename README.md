@@ -101,11 +101,8 @@ Contribution Snake
 </p>
 
 ---
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshhGupta&theme=github_dark)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshhGupta&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 Contribution Activity
