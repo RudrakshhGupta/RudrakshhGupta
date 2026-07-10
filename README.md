@@ -101,7 +101,11 @@ Contribution Snake
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" width="20" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshhGupta&theme=github_dark)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshhGupta&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 Contribution Activity
@@ -191,11 +195,6 @@ Tech Event
 
 </tr>
 </table>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RudrakshhGupta/RudrakshhGupta/main/github-metrics.svg" width="500">
-</p>
 
 ---
 
