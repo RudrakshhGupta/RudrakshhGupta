@@ -85,7 +85,7 @@
 
 <img src="https://img.icons8.com/fluency/32/snake.png"/>
 
-Contribution Snake
+Contribution Snake:
 
 </h2>
 
