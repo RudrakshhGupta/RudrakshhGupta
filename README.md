@@ -37,7 +37,7 @@
 
 <td width="50%" valign="top">
 
-🎓 B.Tech CSE @ IIIT Nagpur
+🎓 B.Tech CSE @ IIIT, Nagpur
 
 🎤 Public Speaker & Debate Enthusiast
 
